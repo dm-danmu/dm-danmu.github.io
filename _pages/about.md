@@ -24,11 +24,8 @@ I collect behavioral and acoustic data to investigate how language/speech is pro
 
 Contact me for any exciting ideas and talks!
 ------
-dan.mu@rug.nl
-
-Oude Kijk in 't Jatstraat 26
-9712 EK  Groningen
-Room: 1312.201
+* Email: dan.mu@rug.nl
+* Address: Oude Kijk in 't Jatstraat 26, 9712 EK, Groningen, The Netherland. Room: 1312.201
 
 
 More links
