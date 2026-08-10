@@ -9,27 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Neural Processing of Vocal Pitch
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Center for Language and Cognition Groningen, University of Groningen, 2024-2028
+* This project examines how speakers use auditory information to monitor their vocal pitch. This project is supervised by Dr. Defne Abur, Dr. Frank Tsiwah, and Prof. dr. Martijn Wieling (funded by Dutch Ministry of Education, Culture, and Science Starter Grant awarded to Dr. Defne Abur & Dr. Frank Tsiwah).
 
-Work experience
+
+The Production Effect 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Center for Language and Cognition Groningen, University of Groningen, 2022 - now
+* Reading aloud has been shown to enhance memory, a phenomenon known as the production effect. This project investigates the neural basis of this memory advantage. This project is supervised by Dr. Frank Tsiwah.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Multimodal Language Processing in Social Interaction
+======
+* Donders Institute for Brain, Cognition, and Behaviour, Radboud Universiy Nijmegen, 2023 - now
+* Language communication involves processing both auditory and visual information. This project investigates how multi-sensory information influences language processing during face-to-face interaction. This project is supervised by Prof. dr. Judith Holler and Dr. Alexandra Emmendorfer.
+
   
 
