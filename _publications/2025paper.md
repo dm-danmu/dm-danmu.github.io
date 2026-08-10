@@ -2,7 +2,7 @@
 title: "Phonetic Transcription Skills Promote L2 Listening Comprehension: Evidence From Longitudinal Cross-Lagged Models of L2 Chinese Learners at Different Proficiency Levels"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025paper
 excerpt: ''
 date: 2025-02-05
 venue: 'International Journal of Applied Linguistics'
