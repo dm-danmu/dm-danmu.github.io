@@ -22,7 +22,19 @@ How do I do my research?
 I collect behavioral and acoustic data to investigate how language/speech is produced and perceived. I also use physiological measures, including electroencephalography (EEG), pupillometry, and skin conductance, to uncover the underlying neural mechanisms that support language behavior. 
 
 
-Contact me! Looking forward to any exciting ideas and talks!
+Contact me for any exciting ideas and talks!
 ------
 dan.mu@rug.nl
+
+Oude Kijk in 't Jatstraat 26
+9712 EK  Groningen
+Room: 1312.201
+
+
+More links
+------
+* [Speech Lab Grongingen](https://speechlabgroningen.nl/)
+* [Speech Biosignal Processing Lab](https://aburlab.web.rug.nl/)
+* [The Communication in Social Interaction Lab](https://www.cosilab.nl/)
+
 
