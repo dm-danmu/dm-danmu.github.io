@@ -12,19 +12,17 @@ Speaking seem effortless to us: we can easily say and understand countless words
 
 
 This is what I do in my research!
-------
-
+======
 I am a PhD researcher at the Center for Language and Cognition Groningen (CLCG) at the University of Groningen. My research primarily focuses on the sensorimotor control of vocal pitch, as well as language production in first and second languages.
 
 In addition, I am an affiliated researcher at the Communication in Social Interaction (CoSI) Lab, based at Radboud University Nijmegen and the Max Planck Institute for Psycholinguistics. There, I am involved in an extension project of my master’s research, investigating the role of multimodal signals in language processing during social interaction.
 
 How do I do my research?
-======
+------
 I collect behavioral and acoustic data to investigate how language/speech is produced and perceived. I also use physiological measures, including electroencephalography (EEG), pupillometry, and skin conductance, to uncover the underlying neural mechanisms that support language behavior. 
 
 
-Contact me!
-======
+Contact me! Looking forward to any exciting ideas and talks!
+------
 dan.mu@rug.nl
-Looking forward to any exciting ideas and talks!
 
