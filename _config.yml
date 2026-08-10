@@ -23,7 +23,7 @@ repository               : "dm-danmu/dm-danmu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Dan Mu 母聃"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate"
