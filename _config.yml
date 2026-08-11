@@ -29,7 +29,7 @@ author:
   bio              : "PhD candidate in Psycho- & Neurolinguistics"
   location         : "Grongingen, The Netherlands"
   employer         : "University of Groningen"
-  uri              : # URL
+  uri              : "https://www.rug.nl/staff/dan.mu/?lang=en"
   email            : "dan.mu@rug.nl" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Dan-Mu-11"
   scopus           : # URL
   zotero           : # URL
 
