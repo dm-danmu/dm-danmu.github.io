@@ -3,7 +3,7 @@ title: "Phonetic Transcription Skills Promote L2 Listening Comprehension: Eviden
 collection: publications
 category: manuscripts
 permalink: /publication/2025paper
-excerpt: ''
+excerpt: 'Dan Mu, Yuqian Li, Caihua Xu'
 date: 2025-02-05
 venue: 'International Journal of Applied Linguistics'
 paperurl: 'https://dm-danmu.github.io/files/2025.pdf'
