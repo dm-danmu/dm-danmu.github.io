@@ -13,9 +13,9 @@ Speaking seem effortless to us: we can easily say and understand countless words
 
 This is what I do in my research!
 ======
-I am a PhD researcher at the Center for Language and Cognition Groningen (CLCG) at the University of Groningen. My research primarily focuses on the sensorimotor control of vocal pitch, as well as language production in first and second languages.
+I am a PhD researcher at the [Speech Lab Grongingen](https://speechlabgroningen.nl/) and the [Speech Biosignal Processing Lab](https://aburlab.web.rug.nl/) at the University of Groningen. My research primarily focuses on the sensorimotor control of vocal pitch, as well as language production in first and second languages.
 
-In addition, I am an affiliated researcher at the Communication in Social Interaction (CoSI) Lab, based at Radboud University Nijmegen and the Max Planck Institute for Psycholinguistics. There, I am involved in an extension project of my master’s research, investigating the role of multimodal signals in language processing during social interaction.
+In addition, I am an affiliated researcher at the [Communication in Social Interaction (CoSI) Lab](https://www.cosilab.nl/), based at Radboud University Nijmegen and the Max Planck Institute for Psycholinguistics. There, I am involved in an extension project of my master’s research, investigating the role of multimodal signals in language processing during social interaction.
 
 How do I do my research?
 ------
@@ -27,11 +27,5 @@ Contact me for any exciting ideas and talks!
 * Email: dan.mu@rug.nl
 * Address: Oude Kijk in 't Jatstraat 26, 9712 EK, Groningen, The Netherland. Room: 1312.201
 
-
-More links
-------
-* [Speech Lab Grongingen](https://speechlabgroningen.nl/)
-* [Speech Biosignal Processing Lab](https://aburlab.web.rug.nl/)
-* [The Communication in Social Interaction Lab](https://www.cosilab.nl/)
 
 
