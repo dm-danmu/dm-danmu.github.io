@@ -2,7 +2,7 @@
 title: "Tonal-Language Experience Affects Neural Processing during Auditory-Motor Control of Vocal Pitch"
 collection: publications
 category: conference
-permalink: [/publication/2026poster]
+permalink: /publication/2026poster
 excerpt: ''
 date: 2026-01-10
 venue: 'Society for the Neurobiology of Language 18th Annual Meeting'
