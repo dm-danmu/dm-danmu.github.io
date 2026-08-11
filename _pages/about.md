@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Speaking seem effortless to us: we can easily say and understand countless words every day, without having to think through each step like we do when solving a math problem. However, when we use language, our brains actually engage in rapid and complex processes that that we are largely unaware of! By studying language and speech, we can uncover the fascinating mechanisms underlying everyday communication and reveal the processes that happen beyond our awareness!
+Speaking seems effortless to us: we can easily say and understand countless words every day, without having to think through each step like we do when solving a math problem. However, when we use language, our brains actually engage in rapid and complex processes that we are largely unaware of! By studying language and speech, we can uncover the fascinating mechanisms underlying everyday communication and reveal the processes that happen beyond our awareness!
 
 
 This is what I do in my research!
@@ -26,6 +26,13 @@ Contact me for any exciting ideas and talks!
 ------
 * Email: dan.mu@rug.nl
 * Address: Oude Kijk in 't Jatstraat 26, 9712 EK, Groningen, The Netherland. Room: 1312.201
+
+
+Research interests
+------
+* Brain & Language
+* Speech Motor Control
+* Multisensory Processing in Language
 
 
 
